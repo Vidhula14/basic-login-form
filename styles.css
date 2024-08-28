@@ -1,0 +1,21 @@
+form * {
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    
+}
+form {
+    border: 2px solid black;
+    padding: 15px;
+    width: 300px;
+    margin-left: 750px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+button{
+    background-color: #86f3a1;
+}
